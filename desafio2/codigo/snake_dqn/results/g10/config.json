@@ -1,0 +1,14 @@
+{
+    "grid_size": 10,
+    "episodes": 2000,
+    "gamma": 0.95,
+    "lr": 0.001,
+    "batch_size": 64,
+    "eps_decay": 0.995,
+    "target_update": 500,
+    "seed": 0,
+    "run_name": "g10",
+    "double": false,
+    "hidden_size": 256,
+    "smoke_test": false
+}
